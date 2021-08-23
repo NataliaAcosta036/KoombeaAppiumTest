@@ -47,7 +47,7 @@ Se adjunta un video con la ejecución de los escenarios de prueba.
 
 #*Repositorio de git donde se encuentra alojado el proyecto
 
-URL: https://github.com/NataliaAL23/koombeaAppiumProject.git
+URL: https://github.com/NataliaAcosta036/koombeaAppiumTest
 
 
 #*Reporte del resultado de la automatización
